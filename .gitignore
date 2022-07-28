@@ -1,0 +1,7 @@
+#dependancies directory
+node_modules/
+src/upload
+src/segment
+tmp
+#dependancies files
+.DS_Store
